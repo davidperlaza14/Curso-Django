@@ -1,2 +1,2 @@
 # Curso-Django
-** Curso basico de Django.
+*  Curso basico de Django.
